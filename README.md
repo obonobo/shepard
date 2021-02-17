@@ -1,4 +1,4 @@
-# S.H.E.P.A.R.D.
+# S.H.E.P.H.E.R.D.
 
 <p>
     <em>
@@ -7,7 +7,8 @@
         <strong>E</strong>ncouragement
         for
         <strong>P</strong>romoting
-        <strong>A</strong>chievement
+        <strong>H</strong>ealthy
+        <strong>E</strong>ngagement
         and
         <strong>R</strong>ealistic
         <strong>D</strong>evelopment
