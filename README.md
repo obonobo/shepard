@@ -19,11 +19,12 @@ This repo contains project files for SOEN-357 design mini project.
 
 ## Team
 
-| Member | GitHub |
-| ---- | ------ |
-| Ethan Benabou | [obonobo](https://github.com/obonobo/) |
-| Sean McKenzie | [mckenzietsean](https://github.com/mckenzietsean) |
-| Justin Loh | [JustinLohKingWei](https://github.com/JustinLohKingWei) |
+| Member | Student ID | GitHub |
+| ------ | ---------- | ------ |
+| Ethan Benabou |40032543| [obonobo](https://github.com/obonobo/) |
+| Sean McKenzie | 40068618| [mckenzietsean](https://github.com/mckenzietsean) |
+| Justin Loh |40073776 | [JustinLohKingWei](https://github.com/JustinLohKingWei) |
+
 
 ## Project Description
 
