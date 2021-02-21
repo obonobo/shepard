@@ -46,29 +46,3 @@ manage their screen time. In this vein, the desktop and mobile apps on the
 Shepard platform offer features for enforcing healthy screen habits, such as
 timers, notifications, and task management. Shepard also offers functionality
 for promoting health exercise habits.
-
-        GO ON ONE OR TWO MORE SENTENCES GIVING AN OVERVIEW OF THE FEATURES
-
-
-
-## Who is this for?
-
-Shepard is designed for regular consumers that have a need for assistance in
-managing their screen time and lifestyle habits.
-
-## Feature List (Product Requirements)
-
-1. Screen time management features
-    - Task timers
-    - Notifications for tasks/timer events
-    - Task management
-        - Todo list
-2. Exercise features
-    - Stats tracker
-    - Save and manage workouts
-    - Scheduling
-    - Timers
-
-## Competitors and product inspiration
-
-Write about some similar products that are already on the market.
